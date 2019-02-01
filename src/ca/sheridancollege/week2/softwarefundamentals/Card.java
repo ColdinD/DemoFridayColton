@@ -18,6 +18,7 @@ public class Card
     private int value;//1-13
     int a;//new variable
     a=10;
+    int b;
     /**
      * A constructor that creates a Card Object with a given
      * suit and a given value.
