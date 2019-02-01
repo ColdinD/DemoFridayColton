@@ -7,6 +7,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * CHANGE MADE ON JAN 1 2019 12:36pm
+ * CHANGE MADE ON JAN 1 2019 12:40pm
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
  * @author megha,2019
